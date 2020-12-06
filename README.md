@@ -2,7 +2,7 @@
 
 This project is a react reddit clone with content and comments functionality. Users will be able to post content to predefined categories, comment on their posts and other users' posts, and vote on posts and comments. Users will also be able to edit and delete posts and comments.
 
-This repository also includes the code for the backend API Server that you can use to develop and interact with the front-end portion of the project.
+This repository also includes the code for the backend API Server that can be used to develop and interact with the front-end portion of the project.
 
 ## Required Software
 
