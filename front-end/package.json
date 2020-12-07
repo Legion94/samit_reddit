@@ -2,7 +2,7 @@
   "name": "km-react-reddit-clone-front-end",
   "version": "0.1.0",
   "private": true,
-  "author": "Kalpana Madhalam",
+  "author": "Legion94",
   "dependencies": {
     "axios": "^0.16.2",
     "moment": "^2.18.1",
